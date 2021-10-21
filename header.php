@@ -30,7 +30,7 @@
     <link rel='stylesheet' id='tp-droid-serif-css'
         href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&amp;ver=5.0.14' type='text/css'
         media='all' />
-   
+        <script src="https://use.fontawesome.com/1297ea2ab1.js"></script>
     <link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/jzsyllxq/bgggi.css" media="all" />
     <script src='wp-content/cache/wpfc-minified/g1puhg95/bgggl.js' type="text/javascript"></script>
     

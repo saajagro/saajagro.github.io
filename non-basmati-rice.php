@@ -35,16 +35,10 @@
                                         Non-Basmati Rice</h3>
                                     <div class="wpb_text_column ">
                                         <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">Rice other than basmati rice is called non-
-                                                basmati rice. In the world it has been reported that there are 10000
-                                                varieties of rice, the maximum number being in India. In fact, basmati
-                                                rice equals to only 1% production of the total rice grown in
-                                                India.<br />
-                                                Non- basmati rice comes in all kinds of different shapes and sizes. Some
-                                                are long and slender, some are short and thick, some are like beads, and
-                                                some may be round. None have the same characteristics as basmati rice.
-                                                Some names of non basmati rice are shaped like basmati rice and PR, 104
-                                                IR8, IR 64, Masuri.</p>
+                                            <p style="text-align: justify;">Other than basmati rice, there are approximately 10000 different varieties of rice in the world, and India produces the maximum amount. In fact, basmati rice accounts for only 1% of the rice produced in India.<br>
+All kinds of non-basmati rice exist; some are long and slender, some are short and thick, some are like beads, others are shaped like basmati rice and some are round.|
+Some names of non basmati rice are shaped like basmati rice and PR, 104 IR8, IR 64, Masuri.
+</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1109,49 +1103,25 @@
                                                     <tr class="row-1 odd">
                                                         <td class="column-1"><span style="color: #f7941e;">Bag
                                                                 Size</span></td>
-                                                        <td class="column-2">1 Kg</td>
-                                                        <td class="column-3">2 Kg</td>
-                                                        <td class="column-4">5 Kg</td>
-                                                        <td class="column-5">10 Kg</td>
-                                                        <td class="column-6">20 Kg</td>
-                                                        <td class="column-7">25 Kg</td>
-                                                        <td class="column-8">40 Kg</td>
+                                                        
                                                         <td class="column-9">50 Kg</td>
                                                     </tr>
                                                     <tr class="row-2 even">
                                                         <td class="column-1"><span style="color: #f7941e;">LDP /
                                                                 BOPP</span></td>
-                                                        <td class="column-2">20</td>
-                                                        <td class="column-3">20</td>
-                                                        <td class="column-4">22</td>
-                                                        <td class="column-5">22</td>
-                                                        <td class="column-6">22.5</td>
-                                                        <td class="column-7">22.5</td>
-                                                        <td class="column-8">23</td>
+                                                        
                                                         <td class="column-9">23</td>
                                                     </tr>
                                                     <tr class="row-3 odd">
                                                         <td class="column-1"><span style="color: #f7941e;">Non &#8211;
                                                                 Woven</span></td>
-                                                        <td class="column-2">22</td>
-                                                        <td class="column-3">22</td>
-                                                        <td class="column-4">24</td>
-                                                        <td class="column-5">24</td>
-                                                        <td class="column-6">24</td>
-                                                        <td class="column-7">24</td>
-                                                        <td class="column-8">24</td>
+                                                        
                                                         <td class="column-9">24</td>
                                                     </tr>
                                                     <tr class="row-4 even">
                                                         <td class="column-1"><span style="color: #f7941e;">PP Bag</span>
                                                         </td>
-                                                        <td class="column-2">&#8211;</td>
-                                                        <td class="column-3">&#8211;</td>
-                                                        <td class="column-4">24</td>
-                                                        <td class="column-5">24</td>
-                                                        <td class="column-6">24</td>
-                                                        <td class="column-7">24</td>
-                                                        <td class="column-8">24</td>
+                                                       
                                                         <td class="column-9">24</td>
                                                     </tr>
                                                 </tbody>
@@ -1162,12 +1132,7 @@
                                         data-height="10" data-height-mobile="10" data-height-tab="10"
                                         data-height-tab-portrait="" data-height-mobile-landscape=""
                                         style="clear:both;display:block;"></div>
-                                    <div class="wpb_text_column ">
-                                        <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">For 1Kg, 2Kg and 5Kg in Master Carton
-                                                Packing the loadability will be 20Mt</p>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>

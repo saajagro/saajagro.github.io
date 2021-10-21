@@ -47,7 +47,7 @@
                 <div class="l-section-overlay" style="background: #f9f9f9"></div>
                 <div class="l-section-h i-cf">
                     <div class="g-cols vc_row type_default valign_top">
-                        <div class="vc_col-sm-4 wpb_column vc_column_container animate_afl">
+                        <div class="vc_col-sm-6 wpb_column vc_column_container animate_afl">
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <h3 style="text-align: center" class="vc_custom_heading">Basmati Rice</h3>
@@ -75,7 +75,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="vc_col-sm-4 wpb_column vc_column_container animate_aft">
+                        <div class="vc_col-sm-6 wpb_column vc_column_container animate_aft">
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <h3 style="text-align: center" class="vc_custom_heading">Non-Basmati Rice</h3>
@@ -103,34 +103,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="vc_col-sm-4 wpb_column vc_column_container animate_afr">
-                            <div class="vc_column-inner">
-                                <div class="wpb_wrapper">
-                                    <h3 style="text-align: center" class="vc_custom_heading">Gallery</h3>
-                                    <div class="w-image align_center style_shadow-2 vc_custom_1615202813837">
-                                        <div class="w-image-h">
-                                            <div class="w-image-shadow"
-                                                style="background-image:url(wp-content/uploads/2020/03/gallery-home.jpg);">
-                                            </div><img width="348" height="155"
-                                                src="wp-content/uploads/2020/03/gallery-home.jpg"
-                                                class="attachment-full size-full" alt=""
-                                                srcset="https://riceofindia.com/wp-content/uploads/2020/03/gallery-home.jpg 348w, https://riceofindia.com/wp-content/uploads/2020/03/gallery-home-300x134.jpg 300w"
-                                                sizes="(max-width: 348px) 100vw, 348px" />
-                                        </div>
-                                    </div>
-                                    <div class="wpb_text_column ">
-                                        <div class="wpb_wrapper">
-                                            <p style="text-align: center;">We are constantly striving to come forth with
-                                                products that suit your requirements. Our products are an amalgamation
-                                                of quality and innovation.</p>
-                                        </div>
-                                    </div>
-                                    <!-- <div class="w-btn-wrapper width_auto align_center"><a class="w-btn us-btn-style_3"
-                                            href="infrastructure/index.html"><span class="w-btn-label">Read
-                                                More...</span></a></div> -->
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </section>
@@ -144,18 +117,9 @@
                                         <div class="wpb_wrapper">
                                             <p style="text-align: justify; margin-bottom: 0px;"><img
                                                     style="float: left; margin-right: 15px; width: 180px;"
-                                                    src="wp-content/uploads/2020/03/rice-frontlogo.jpg" />We are
-                                                exporting Basmati Rice to USA, Europe, South East Asian, Middle East,
-                                                Saudi Arabia, UAE and African Countries. Our Office are spread in
-                                                various parts of the globe including Dubai and India.</p>
-                                            <p style="text-align: justify;">We cater to all varieties Traditional
-                                                Basmati, Pusa Basmati, 1121 Basmati Sharbati Basmati and in all forms
-                                                &#8211; Brown, Milled Raw, Steamed, Par-boiled / Sella &#8211; White /
-                                                Golden. Non-Basmati varieties are PR 14, PR11, PR 106, IR 64, IR14 and
-                                                in all forms &#8211; Brown, Milled Raw, Steamed, Par-boiled / Sella
-                                                &#8211; White / Golden. Ponni varieties are Chella Ponni, Kalsar Ponni,
-                                                Andra Ponni, and Karnataka Ponni, Swarna Masuri and Idly Rice Ambai 16.
-                                                Has the capability to pack in all forms of packaging materials.</p>
+                                                    src="wp-content/uploads/2020/03/rice-frontlogo.jpg" />Basmati Rice is exported to the USA, Europe, South East Asia, Middle East, Saudi Arabia, UAE and African countries.</p>
+                                            <p style="text-align: justify;">Our office is in Jaipur.
+Our product line includes Traditional Basmati, Pusa Basmati, 1121 Basmati Sharbati Basmati, as well as Brown, Raw, Steamed, Par-boiled / Sella - White / Golden.The varieties of non-Basmati rice are PR 14, PR11, PR106, IR 64, IR 14, and in all forms: Brown, Milled Raw, Steamed, Parboiled / Sella - White and Golden.Ponni varieties are Chella Ponni, Kalsar Ponni, Andra Ponni, and Karnataka Ponni, Swarna Masuri and Idly Rice Ambai 16. Has the capability to pack in all forms of packaging materials.</p>
                                         </div>
                                     </div>
                                 </div>

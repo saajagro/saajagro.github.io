@@ -34,13 +34,7 @@
                                         Rice</h4>
                                     <div class="wpb_text_column  vc_custom_1585304455657">
                                         <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">Basmati, meaning ‘Queen of Fragrance’ is a
-                                                variety of long-grain rice, famous for its fragrance and delicate
-                                                flavor. Basmati rice has been reported in India since the early days of
-                                                the 19th Century though it may have been named differently. Basmati is a
-                                                variety of long grain rice which is traditionally from India. Its also
-                                                called Oryza Sativa. Indian Basmati Rice is one of the famous worldwide
-                                                for its quality and aroma.</p>
+                                            <p style="text-align: justify;">Basmati, meaning ‘Queen of Fragrance’ might be a kind of long-grain rice, famous for its fragrance and delicate flavor. Basmati rice has been reported in India since the primary days of the 19th Century though it's getting to are named differently. Basmati might be a kind of long grain rice which is traditionally from India. Its also called Oryza sativa . Indian Basmati Rice is one of the famous worldwide for its quality and aroma.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1077,49 +1071,25 @@
                                                     <tr class="row-1 odd">
                                                         <td class="column-1"><span style="color: #f7941e;">Bag
                                                                 Size</span></td>
-                                                        <td class="column-2">1 Kg</td>
-                                                        <td class="column-3">2 Kg</td>
-                                                        <td class="column-4">5 Kg</td>
-                                                        <td class="column-5">10 Kg</td>
-                                                        <td class="column-6">20 Kg</td>
-                                                        <td class="column-7">25 Kg</td>
-                                                        <td class="column-8">40 Kg</td>
+                                                       
                                                         <td class="column-9">50 Kg</td>
                                                     </tr>
                                                     <tr class="row-2 even">
                                                         <td class="column-1"><span style="color: #f7941e;">LDP /
                                                                 BOPP</span></td>
-                                                        <td class="column-2">20</td>
-                                                        <td class="column-3">20</td>
-                                                        <td class="column-4">22</td>
-                                                        <td class="column-5">22</td>
-                                                        <td class="column-6">22.5</td>
-                                                        <td class="column-7">22.5</td>
-                                                        <td class="column-8">23</td>
+                                                       
                                                         <td class="column-9">23</td>
                                                     </tr>
                                                     <tr class="row-3 odd">
                                                         <td class="column-1"><span style="color: #f7941e;">Non &#8211;
                                                                 Woven</span></td>
-                                                        <td class="column-2">22</td>
-                                                        <td class="column-3">22</td>
-                                                        <td class="column-4">24</td>
-                                                        <td class="column-5">24</td>
-                                                        <td class="column-6">24</td>
-                                                        <td class="column-7">24</td>
-                                                        <td class="column-8">24</td>
+                                                        
                                                         <td class="column-9">24</td>
                                                     </tr>
                                                     <tr class="row-4 even">
                                                         <td class="column-1"><span style="color: #f7941e;">PP Bag</span>
                                                         </td>
-                                                        <td class="column-2">&#8211;</td>
-                                                        <td class="column-3">&#8211;</td>
-                                                        <td class="column-4">24</td>
-                                                        <td class="column-5">24</td>
-                                                        <td class="column-6">24</td>
-                                                        <td class="column-7">24</td>
-                                                        <td class="column-8">24</td>
+                                                        
                                                         <td class="column-9">24</td>
                                                     </tr>
                                                 </tbody>
@@ -1130,12 +1100,7 @@
                                         data-height="10" data-height-mobile="10" data-height-tab="10"
                                         data-height-tab-portrait="" data-height-mobile-landscape=""
                                         style="clear:both;display:block;"></div>
-                                    <div class="wpb_text_column  vc_custom_1633605446811">
-                                        <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">For 1Kg, 2Kg and 5Kg in Master Carton
-                                                Packing the loadability will be 20Mt</p>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -1152,41 +1117,24 @@
                                         Indian Heritage</h4>
                                     <div class="wpb_text_column  vc_custom_1585304473120">
                                         <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">Basmati, the highly aromatic rice is
-                                                nature&#8217;s gift to the Indian sub-continent and it is India&#8217;s
-                                                gift to the whole world. Farmers in the northern parts of the country,
-                                                at the foot of the Himalayan mountain ranges have been growing this
-                                                scented rice for centuries. Basmati grown in India, they say, is as
-                                                great as the land and as old as the civilization itself.The tropical
-                                                climate and soil prevailing at the foothills of the Himalayas is perfect
-                                                for Basmati rice cultivation. Basmati from India is a perfect treat for
-                                                the connoisseurs of sumptuous food, all over the world!</p>
+                                            <p style="text-align: justify;">Basmati, the highly aromatic rice is nature’s gift to the Indian sub-continent and it's India’s gift to the full world. Farmers within the northern parts of the country, at the foot of the Himalayan mountain ranges are growing this scented rice for hundreds of years . Basmati grown in India, they say, is as great because the land and as old because the civilization itself.The tropical climate and soil prevailing at the foothills of the Himalayas is ideal for Basmati rice cultivation. Basmati from India may be a perfect treat for the connoisseurs of sumptuous food, everywhere the world!
+</p>
                                         </div>
                                     </div>
                                     <h4 style="text-align: left" class="vc_custom_heading vc_custom_1585304381691">
                                         Basmati Rice</h4>
                                     <div class="wpb_text_column  vc_custom_1585304466579">
                                         <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">Nurtured by snow fed rivers, Basmati is
-                                                without a shadow of doubt the King of all Rices in the world. Its long
-                                                slender shape and an unmatched fragrance and aroma are reflective of the
-                                                age old civilization that cultivates it. Basmati is non-glutinous and
-                                                has a fine, smooth and silky texture. The rice has been favored by
-                                                emperors and praised by poets for hundreds of years.</p>
+                                            <p style="text-align: justify;">Nurtured by snow fed rivers, Basmati is without a shadow of doubt the King of all Rices within the world. Its long slender shape and an unmatched fragrance and aroma are reflective of the age old civilization that cultivates it. Basmati is non-glutinous and features a fine, smooth and silky texture. The rice has been favored by emperors and praised by poets for many years.
+</p>
                                         </div>
                                     </div>
                                     <h4 style="text-align: left" class="vc_custom_heading vc_custom_1585304360180">
                                         Varieties</h4>
                                     <div class="wpb_text_column  vc_custom_1585304460535">
                                         <div class="wpb_wrapper">
-                                            <p style="text-align: justify;">There are several varieties of basmati rice.
-                                                1121 Sella/Steam/Raw, Pusa Sella/Steam/Raw, Sugantha Sella/Steam/Raw,
-                                                Sharbati Sella/Steam/Raw. Pusa &amp; Sugantha is also called the name of
-                                                super Kernel Basmati Rice. This rice is different from other rice mainly
-                                                due to the aroma and elongation post cooking. No other rice has this
-                                                combined characteristic. The post cooking elongation of more than twice
-                                                its original length, the aroma and its sweet taste has made basmati rice
-                                                a delicacy.</p>
+                                            <p style="text-align: justify;">There are several sorts of basmati rice. 1121 Sella/Steam/Raw, Pusa Sella/Steam/Raw, Sugantha Sella/Steam/Raw, Sharbati Sella/Steam/Raw. Pusa & Sugantha is additionally called the name of super Kernel Basmati Rice. This rice is different from other rice mainly because of the aroma and elongation post cooking. No other rice has this combined characteristic. The post cooking elongation of quite twice its original length, the aroma and its sweet taste has made basmati rice a delicacy.
+</p>
                                         </div>
                                     </div>
                                 </div>
