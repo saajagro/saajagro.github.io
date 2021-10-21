@@ -20,10 +20,10 @@
             <div class="l-subheader at_middle">
                 <div class="l-subheader-h">
                     <div class="l-subheader-cell at_left">
-                        <div class="w-image ush_image_1"><a class="w-image-h" href="non-basmati-rice.php"><img width="566"
-                                    height="102" src="wp-content/uploads/2017/07/saaj.jpg"
+                        <div class="w-image ush_image_1"><a class="w-image-h" href="index.php"><img width="566"
+                                    height="102" src="wp-content/uploads/2017/07/rice-logo.jpg"
                                     class="attachment-large size-large" alt=""
-                                    srcset="https://riceofindia.com/wp-content/uploads/2017/07/saaj.jpg 566w, https://riceofindia.com/wp-content/uploads/2017/07/saaj-300x54.jpg 300w"
+                                    srcset="http://saajagro.com/wp-content/uploads/2017/07/rice-logo.jpg 566w, https://saajagro.com/wp-content/uploads/2017/07/rice-logo-300x54.jpg 300w"
                                     sizes="(max-width: 566px) 100vw, 566px" /></a></div>
                     </div>
                     <div class="l-subheader-cell at_center"></div>
