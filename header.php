@@ -109,11 +109,11 @@
     </script>
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
     <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://riceofindia.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
-    <link rel="icon" href="wp-content/uploads/2020/03/rice-favicon.png" sizes="32x32" />
+    <!-- <link rel="icon" href="wp-content/uploads/2020/03/rice-favicon.png" sizes="32x32" />
     <link rel="icon" href="wp-content/uploads/2020/03/rice-favicon.png" sizes="192x192" />
     <link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2020/03/rice-favicon.png" />
     <meta name="msapplication-TileImage"
-        content="https://riceofindia.com/wp-content/uploads/2020/03/rice-favicon.png" />
+        content="https://riceofindia.com/wp-content/uploads/2020/03/rice-favicon.png" /> -->
     <style type="text/css" data-type="vc_shortcodes-custom-css">
         .vc_custom_1619521307628 {
             padding-bottom: 10px !important;
