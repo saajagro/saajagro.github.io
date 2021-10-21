@@ -5,20 +5,17 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Rice of India</title>
+    <title>Saaj Agro</title>
     <link rel='dns-prefetch' href='http://translate.google.com/' />
     <link rel='dns-prefetch' href='http://www.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel="alternate" type="application/rss+xml" title="Rice of India &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Rice of India &raquo; Comments Feed"
-        href="comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Saaj Agro &raquo; Feed" href="" />
+    <link rel="alternate" type="application/rss+xml" title="Saaj Agro &raquo; Comments Feed"
+        href="" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta name="theme-color" content="#f5f5f5">
-    <meta property="og:title" content="Home">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="index.html">
-    <meta property="og:image" content="wp-content/uploads/2020/03/rice-banner1.jpg">
+    
    
     <link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/l254q218/bgggj.css" media="all" />
     <link rel='stylesheet' id='tp-open-sans-css'
@@ -34,12 +31,8 @@
     <link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/jzsyllxq/bgggi.css" media="all" />
     <script src='wp-content/cache/wpfc-minified/g1puhg95/bgggl.js' type="text/javascript"></script>
     
-    <link rel='https://api.w.org/' href='wp-json/index.html' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.0.14" />
-    <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='index.html' />
+    
     <link rel="alternate" type="application/json+oembed"
         href="wp-json/oembed/1.0/embed2c56.json?url=https%3A%2F%2Friceofindia.com%2F" />
     <link rel="alternate" type="text/xml+oembed"
